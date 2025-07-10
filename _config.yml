@@ -26,6 +26,7 @@ back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
+theme: al-folio
 # -----------------------------------------------------------------------------
 
 # repo color theme
